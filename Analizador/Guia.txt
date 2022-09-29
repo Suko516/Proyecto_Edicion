@@ -1,0 +1,8 @@
+El prograam consta de una analizador lexico
+y semantico
+- al compilar este rastrea tokens
+- verifica carateres
+- palabras reservadas
+- identifica numeros
+
+Como cualquier compilador 
